@@ -1,0 +1,11 @@
+﻿# Alles ignorieren
+*
+
+# Aber nicht Ordner selbst (sonst kannst du darin keine Dateien committen)
+!*/
+
+# Whitelist
+!*.mp3
+!*.opus
+!README.md
+!*.gitignore
