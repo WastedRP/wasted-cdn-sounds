@@ -6,6 +6,7 @@
 
 # Whitelist
 !*.mp3
+!*.m4a
 !*.opus
 !README.md
 !*.gitignore
